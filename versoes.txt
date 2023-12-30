@@ -1,9 +1,10 @@
 #Nome: Vinicius
-#Data: 29/12/23
-#Hora: 22:54
+#Data: 30/12/23
+#Hora: 10:26
 
-#Estamos na branch numero1
-#Mensagem: Vinicius Passou por aqui as 22:54 do dia 29/12/23.
+#Estamos na branch Tarefa/minha-primiera-branch
+#Mensagem: Escute musicas pesada, assim voce sofrerá menos!
 
+PDF: https://drive.google.com/file/d/1Mu-3SbMg12FvHi8yAKiZzDorTruIHuc-/view
 Link: https://github.com/vinicius-augusto/senai-versoes-colaboracoes/tree/master
 Referencia: https://www.youtube.com/watch?v=jRvJlXoQWYc
