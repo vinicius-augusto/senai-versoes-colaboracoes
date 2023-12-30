@@ -2,5 +2,8 @@
 #Data: 29/12/23
 #Hora: 22:54
 
-#Estamos na brach numero1
+#Estamos na branch numero1
 #Mensagem: Vinicius Passou por aqui as 22:54 do dia 29/12/23.
+
+Link: https://github.com/vinicius-augusto/senai-versoes-colaboracoes/tree/master
+Referencia: https://www.youtube.com/watch?v=jRvJlXoQWYc
