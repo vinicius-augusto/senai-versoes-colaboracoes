@@ -4,3 +4,4 @@
 
 -> Lembrei do comando: git status
 
+-> Lembrei do comando: git checkout [branch]
