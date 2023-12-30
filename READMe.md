@@ -1,1 +1,1 @@
-Lembrei do comando: git status
+=> Bem Vindo Ao Meu Repositorio!
