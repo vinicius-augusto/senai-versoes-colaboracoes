@@ -1,3 +1,1 @@
-#Projeto Versionamento Senai: 
-
-https://www.youtube.com/watch?v=jRvJlXoQWYc
+Lembrei do comando: git status
