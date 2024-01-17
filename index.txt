@@ -1,6 +1,7 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-   <H1> GIT - Vinicius</H1>
+   <H1> GIT - Versionamento</H1>
+
 </BODY>
 </HTML>
